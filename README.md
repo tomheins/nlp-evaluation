@@ -2,6 +2,13 @@
 
 Overall this is a natural language processor that analysises any http adress.
 
+In order to start, type in these commands in the terminal:
+
+1. npm i
+2. npm run build-prod
+3. npm run start
+
+After that go to your browser and type in localhost:8081
 
 *** Here I will give a short description of every file in the src/client/js folder as the others were barely changed ***
 
